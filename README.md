@@ -8,8 +8,7 @@ This mod adds High-Value Dupe checker into your skyblock experience. ![image](ht
 Many players have been wiped before, now this will prevent it. Don't buy anything before Dupe-Checking it!
 
 # Download
-You can download it by clicking [HERE](put the thing here)
-
+You can download it by clicking [HERE](https://github.com/NBTitemData/NBT-Dupe-Checker)
 # Is this bannable?
 Short answer: This mod follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is most likely not bannable, but as with all mods, it is use at your own risk.
 
